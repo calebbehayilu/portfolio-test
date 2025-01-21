@@ -14,8 +14,8 @@ export default function Portfolio() {
         <ProjectCard
           title="Password Manager"
           description="For storing a password."
-          imageUrl="https://picsum.photos/id/237/250/150"
-          projectUrl="https://picsum.photos/id/237/250/150"
+          imageUrl="https://eaog2nkqckp.exactdn.com/wp-content/uploads/2024/06/roboform-best-password-manager-1024x769.webp?strip=all&lossy=1&ssl=1"
+          projectUrl="https://eaog2nkqckp.exactdn.com/wp-content/uploads/2024/06/roboform-best-password-manager-1024x769.webp?strip=all&lossy=1&ssl=1"
         />
       </div>
     </section>
